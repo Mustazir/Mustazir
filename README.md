@@ -95,7 +95,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mustazir/Mustazir/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
